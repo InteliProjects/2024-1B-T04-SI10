@@ -10,7 +10,7 @@
 
 
 ## 🎯 O objetivo:
-O objetivo do projeto é desenvolver uma plataforma móvel e de backend para aprimorar a gestão de medicamentos hospitalares no Hospital Sírio-Libanês, garantindo escalabilidade, segurança e integração de sistemas, enquanto proporciona uma experiência educativa para os alunos envolvidos no desenvolvimento.
+O objetivo do projeto é aumentar a taxa de conversão de leads na landing page do Curso de Inglês Wizard ON por meio de testes A/B para identificar quais alterações de design, conteúdo e estrutura geram mais inscrições de potenciais estudantes.
 
 ## 💻 Projetos Desenvolvidos: 
 

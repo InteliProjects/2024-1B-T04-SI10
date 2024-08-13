@@ -20,3 +20,11 @@ O objetivo do projeto é aumentar a taxa de conversão de leads na landing page 
 - Grupo 2 
   - Link do repositório: https://github.com/InteliProjects/2024-1B-T04-SI10-G02
 
+- Grupo 3 
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T04-SI10-G03
+
+- Grupo 4 
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T04-SI10-G04
+
+- Grupo 5 
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T04-SI10-G05
